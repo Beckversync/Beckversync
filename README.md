@@ -1,24 +1,49 @@
-# Hi, I'm Beckversync 👋
+<h2 align="left">Hi 👋! My name is Beckham  from VietNam </h2>
 
-I am a passionate and results-driven software developer with expertise in full-stack development, cloud solutions, and data analysis. I design and implement scalable applications, leveraging modern technologies to deliver innovative solutions. Welcome to my GitHub profile!
+###
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=beckversync&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beckversync&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-## About Me
+###
 
-I specialize in developing robust, end-to-end software solutions that blend creativity with technical excellence. With a solid background in programming, cloud infrastructure, and data engineering, I thrive on solving complex problems and delivering projects that make a difference.
+<img align="right" height="150" src="https://github.com/user-attachments/assets/8609b600-7fec-49c0-ba9e-fb08b249128a"  />
 
----
+###
 
-## Featured Project: snk – GitHub Contribution Snake
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-Transform your GitHub contributions into a fun, animated snake game!  
-**snk** generates a snake game from your GitHub contributions graph by:
-- Pulling your contribution grid data,
-- Creating a snake path that "eats" the cells sequentially,
-- Producing an animated image that updates automatically every day.
+###
 
-Perfect for adding a dynamic touch to your GitHub profile!
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
 
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
 [![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest)
@@ -32,41 +57,6 @@ Perfect for adding a dynamic touch to your GitHub profile!
   <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/platane/beckversync/output/github-contribution-grid-snake.svg" />
 </picture>
 
----
 
-## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Beckversync&theme=radical&hide_border=false" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Beckversync&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beckversync&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
-</p>
-
----
-
-## Achievements & Trophies
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=Beckversync&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
----
-
-## Developer Inspiration
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Developer Quote" />
-</p>
-
----
-
-## Connect With Me
-
-Stay connected and follow my professional journey:
-
-- [Facebook](https://www.facebook.com/your-profile)  <!-- Cập nhật link -->
-- [LinkedIn](https://www.linkedin.com/in/your-profile)  <!-- Cập nhật link -->
-
----
+###
