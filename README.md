@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Beckham  from VietNam </h2>
+<h2 align="left"> My name is Beckham  from VietNam </h2>
 
 ###
 
